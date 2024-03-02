@@ -1,6 +1,8 @@
 
 # Phishing para captura de senhas do Facebook
 
+Este é uma atividade do curso de especialização em cybersegurança da DIO. Nele apredendi a usar o kalilinux para encontrar vunerabilidades em redes e lançar ataques contra alvos.
+
 ### Ferramentas
 
 - Kali Linux
